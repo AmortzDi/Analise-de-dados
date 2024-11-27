@@ -1,6 +1,3 @@
-Entendi, você quer um README que descreva o funcionamento do código que coleta dados de **frequência de nomes por estado**. Vamos ajustar o conteúdo para refletir isso.
-
----
 
 # Analisador de Frequência de Nomes por Estado
 
